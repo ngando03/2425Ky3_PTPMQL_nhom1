@@ -1,0 +1,1379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\BA\\PTPMQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\inline-block.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\inline-block.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\index .css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\index .css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\float.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\float.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\display.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\display.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Text Color.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Text Color.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Tables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Tables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Syntax.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Syntax.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Selectors.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Selectors.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Pseudo-elements.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Pseudo-elements.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Pseudo-classes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Pseudo-classes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Padding.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Padding.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Overflow.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Overflow.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Outline Style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Outline Style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Opacity .Transparency.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Opacity .Transparency.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Navigation Bar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Navigation Bar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Margins.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Margins.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Lists.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Lists.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Links.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Links.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Introduction.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Introduction.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Image Gallery.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Image Gallery.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\HeightWidth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\HeightWidth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Dropdowns.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Dropdowns.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Comments.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Comments.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Combinator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Combinator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\BoxModel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\BoxModel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Borders.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Borders.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\CSS\\Backgrounds.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Backgrounds.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Form Attributes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Form Attributes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Forms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Forms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Symbols.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Symbols.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Semantic Elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Semantic Elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Computer Code Elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Computer Code Elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Responsive Web Design.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Responsive Web Design.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Layout Elements and Techniques.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Layout Elements and Techniques.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\The Head Element.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\The Head Element.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\File Paths.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\File Paths.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\JavaScript.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\JavaScript.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Iframes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Iframes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\ id Attribute.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\ id Attribute.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\class Attribute.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\class Attribute.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Div Element.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Div Element.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Block and Inline Elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Block and Inline Elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Other Lists.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Other Lists.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Ordered Lists.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Ordered Lists.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Unordered Lists.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Unordered Lists.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Lists.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Lists.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Table Colgroup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Table Colgroup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Table Styling.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Table Styling.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Table Colspan \u0026 Rowspan.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Table Colspan \u0026 Rowspan.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Table Padding \u0026 Spacing.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Table Padding \u0026 Spacing.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Table Headers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Table Headers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Table Sizes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Table Sizes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Table Borders.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Table Borders.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Tables.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Tables.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Background Images.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Background Images.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Image Maps.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Image Maps.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Images.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Images.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Links - Create Bookmarks.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Links - Create Bookmarks.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Links - Different Colors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Links - Different Colors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Links.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Links.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Styles - CSS.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Styles - CSS.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\HSL and HSLA Colors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\HSL and HSLA Colors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\HEX Colors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\HEX Colors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\RGB and RGBA Colors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\RGB and RGBA Colors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Colors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Colors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Comments.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Comments.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Quotation and Citation Elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Quotation and Citation Elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Text Formatting.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Text Formatting.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Styles.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Styles.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Paragraphs.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Paragraphs.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Headings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Headings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Attributes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Attributes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Basic Examples.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Basic Examples.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Editors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Editors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Introduction.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Introduction.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\BA\\PTPMQL\\HTML\\Elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Elements.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inline-block.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\inline-block.css",
+              "RelativeDocumentMoniker": "CSS\\inline-block.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\inline-block.css",
+              "RelativeToolTip": "CSS\\inline-block.css",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T04:16:09.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index .css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\index .css",
+              "RelativeDocumentMoniker": "CSS\\index .css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\index .css",
+              "RelativeToolTip": "CSS\\index .css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T04:15:41.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "float.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\float.css",
+              "RelativeDocumentMoniker": "CSS\\float.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\float.css",
+              "RelativeToolTip": "CSS\\float.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T04:15:16.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "display.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\display.css",
+              "RelativeDocumentMoniker": "CSS\\display.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\display.css",
+              "RelativeToolTip": "CSS\\display.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T04:14:51.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Text Color.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Text Color.css",
+              "RelativeDocumentMoniker": "CSS\\Text Color.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Text Color.css",
+              "RelativeToolTip": "CSS\\Text Color.css",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T04:14:27.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tables.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Tables.css",
+              "RelativeDocumentMoniker": "CSS\\Tables.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Tables.css",
+              "RelativeToolTip": "CSS\\Tables.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T04:14:04.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Syntax.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Syntax.css",
+              "RelativeDocumentMoniker": "CSS\\Syntax.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Syntax.css",
+              "RelativeToolTip": "CSS\\Syntax.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T04:13:02.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Selectors.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Selectors.css",
+              "RelativeDocumentMoniker": "CSS\\Selectors.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Selectors.css",
+              "RelativeToolTip": "CSS\\Selectors.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:54:41.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pseudo-elements.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Pseudo-elements.css",
+              "RelativeDocumentMoniker": "CSS\\Pseudo-elements.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Pseudo-elements.css",
+              "RelativeToolTip": "CSS\\Pseudo-elements.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:54:17.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pseudo-classes.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Pseudo-classes.css",
+              "RelativeDocumentMoniker": "CSS\\Pseudo-classes.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Pseudo-classes.css",
+              "RelativeToolTip": "CSS\\Pseudo-classes.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:53:47.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Padding.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Padding.css",
+              "RelativeDocumentMoniker": "CSS\\Padding.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Padding.css",
+              "RelativeToolTip": "CSS\\Padding.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:53:23.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Overflow.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Overflow.css",
+              "RelativeDocumentMoniker": "CSS\\Overflow.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Overflow.css",
+              "RelativeToolTip": "CSS\\Overflow.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:53:00.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Outline Style.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Outline Style.css",
+              "RelativeDocumentMoniker": "CSS\\Outline Style.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Outline Style.css",
+              "RelativeToolTip": "CSS\\Outline Style.css",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:52:31.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Opacity .Transparency.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Opacity .Transparency.css",
+              "RelativeDocumentMoniker": "CSS\\Opacity .Transparency.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Opacity .Transparency.css",
+              "RelativeToolTip": "CSS\\Opacity .Transparency.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:52:00.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Navigation Bar.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Navigation Bar.css",
+              "RelativeDocumentMoniker": "CSS\\Navigation Bar.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Navigation Bar.css",
+              "RelativeToolTip": "CSS\\Navigation Bar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:51:35.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Margins.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Margins.css",
+              "RelativeDocumentMoniker": "CSS\\Margins.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Margins.css",
+              "RelativeToolTip": "CSS\\Margins.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:51:12.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lists.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Lists.css",
+              "RelativeDocumentMoniker": "CSS\\Lists.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Lists.css",
+              "RelativeToolTip": "CSS\\Lists.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:50:44.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Links.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Links.css",
+              "RelativeDocumentMoniker": "CSS\\Links.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Links.css",
+              "RelativeToolTip": "CSS\\Links.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:50:15.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Layout.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Layout.css",
+              "RelativeDocumentMoniker": "CSS\\Layout.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Layout.css",
+              "RelativeToolTip": "CSS\\Layout.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:49:30.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Introduction.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Introduction.css",
+              "RelativeDocumentMoniker": "CSS\\Introduction.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Introduction.css",
+              "RelativeToolTip": "CSS\\Introduction.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:48:42.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Image Gallery.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Image Gallery.css",
+              "RelativeDocumentMoniker": "CSS\\Image Gallery.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Image Gallery.css",
+              "RelativeToolTip": "CSS\\Image Gallery.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:47:23.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Icons.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Icons.css",
+              "RelativeDocumentMoniker": "CSS\\Icons.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Icons.css",
+              "RelativeToolTip": "CSS\\Icons.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:46:48.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HeightWidth.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\HeightWidth.css",
+              "RelativeDocumentMoniker": "CSS\\HeightWidth.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\HeightWidth.css",
+              "RelativeToolTip": "CSS\\HeightWidth.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:46:15.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Fonts.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Fonts.css",
+              "RelativeDocumentMoniker": "CSS\\Fonts.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Fonts.css",
+              "RelativeToolTip": "CSS\\Fonts.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:37:48.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dropdowns.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Dropdowns.css",
+              "RelativeDocumentMoniker": "CSS\\Dropdowns.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Dropdowns.css",
+              "RelativeToolTip": "CSS\\Dropdowns.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:37:18.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Comments.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Comments.css",
+              "RelativeDocumentMoniker": "CSS\\Comments.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Comments.css",
+              "RelativeToolTip": "CSS\\Comments.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:36:53.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Combinator.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Combinator.css",
+              "RelativeDocumentMoniker": "CSS\\Combinator.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Combinator.css",
+              "RelativeToolTip": "CSS\\Combinator.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:36:19.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BoxModel.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\BoxModel.css",
+              "RelativeDocumentMoniker": "CSS\\BoxModel.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\BoxModel.css",
+              "RelativeToolTip": "CSS\\BoxModel.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:35:53.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Borders.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Borders.css",
+              "RelativeDocumentMoniker": "CSS\\Borders.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Borders.css",
+              "RelativeToolTip": "CSS\\Borders.css",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:35:14.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Backgrounds.css",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\CSS\\Backgrounds.css",
+              "RelativeDocumentMoniker": "CSS\\Backgrounds.css",
+              "ToolTip": "F:\\BA\\PTPMQL\\CSS\\Backgrounds.css",
+              "RelativeToolTip": "CSS\\Backgrounds.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T03:32:54.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form Attributes.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Form Attributes.html",
+              "RelativeDocumentMoniker": "HTML\\Form Attributes.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Form Attributes.html",
+              "RelativeToolTip": "HTML\\Form Attributes.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T06:16:31.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Forms.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Forms.html",
+              "RelativeDocumentMoniker": "HTML\\Forms.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Forms.html",
+              "RelativeToolTip": "HTML\\Forms.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T06:15:42.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Symbols.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Symbols.html",
+              "RelativeDocumentMoniker": "HTML\\Symbols.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Symbols.html",
+              "RelativeToolTip": "HTML\\Symbols.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T06:11:26.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Semantic Elements.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Semantic Elements.html",
+              "RelativeDocumentMoniker": "HTML\\Semantic Elements.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Semantic Elements.html",
+              "RelativeToolTip": "HTML\\Semantic Elements.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T06:08:57.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Computer Code Elements.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Computer Code Elements.html",
+              "RelativeDocumentMoniker": "HTML\\Computer Code Elements.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Computer Code Elements.html",
+              "RelativeToolTip": "HTML\\Computer Code Elements.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T06:08:12.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Responsive Web Design.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Responsive Web Design.html",
+              "RelativeDocumentMoniker": "HTML\\Responsive Web Design.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Responsive Web Design.html",
+              "RelativeToolTip": "HTML\\Responsive Web Design.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T06:06:48.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Layout Elements and Techniques.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Layout Elements and Techniques.html",
+              "RelativeDocumentMoniker": "HTML\\Layout Elements and Techniques.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Layout Elements and Techniques.html",
+              "RelativeToolTip": "HTML\\Layout Elements and Techniques.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T05:58:26.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "The Head Element.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\The Head Element.html",
+              "RelativeDocumentMoniker": "HTML\\The Head Element.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\The Head Element.html",
+              "RelativeToolTip": "HTML\\The Head Element.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T05:57:29.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "File Paths.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\File Paths.html",
+              "RelativeDocumentMoniker": "HTML\\File Paths.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\File Paths.html",
+              "RelativeToolTip": "HTML\\File Paths.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T05:55:09.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "JavaScript.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\JavaScript.html",
+              "RelativeDocumentMoniker": "HTML\\JavaScript.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\JavaScript.html",
+              "RelativeToolTip": "HTML\\JavaScript.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T05:54:16.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Iframes.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Iframes.html",
+              "RelativeDocumentMoniker": "HTML\\Iframes.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Iframes.html",
+              "RelativeToolTip": "HTML\\Iframes.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T05:53:30.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": " id Attribute.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\ id Attribute.html",
+              "RelativeDocumentMoniker": "HTML\\ id Attribute.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\ id Attribute.html",
+              "RelativeToolTip": "HTML\\ id Attribute.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:35:54.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "class Attribute.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\class Attribute.html",
+              "RelativeDocumentMoniker": "HTML\\class Attribute.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\class Attribute.html",
+              "RelativeToolTip": "HTML\\class Attribute.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:34:29.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Div Element.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Div Element.html",
+              "RelativeDocumentMoniker": "HTML\\Div Element.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Div Element.html",
+              "RelativeToolTip": "HTML\\Div Element.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:33:34.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Block and Inline Elements.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Block and Inline Elements.html",
+              "RelativeDocumentMoniker": "HTML\\Block and Inline Elements.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Block and Inline Elements.html",
+              "RelativeToolTip": "HTML\\Block and Inline Elements.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:32:25.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Other Lists.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Other Lists.html",
+              "RelativeDocumentMoniker": "HTML\\Other Lists.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Other Lists.html",
+              "RelativeToolTip": "HTML\\Other Lists.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:31:49.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Ordered Lists.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Ordered Lists.html",
+              "RelativeDocumentMoniker": "HTML\\Ordered Lists.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Ordered Lists.html",
+              "RelativeToolTip": "HTML\\Ordered Lists.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:31:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Unordered Lists.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Unordered Lists.html",
+              "RelativeDocumentMoniker": "HTML\\Unordered Lists.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Unordered Lists.html",
+              "RelativeToolTip": "HTML\\Unordered Lists.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:30:23.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Lists.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Lists.html",
+              "RelativeDocumentMoniker": "HTML\\Lists.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Lists.html",
+              "RelativeToolTip": "HTML\\Lists.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:29:23.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Table Colgroup.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Table Colgroup.html",
+              "RelativeDocumentMoniker": "HTML\\Table Colgroup.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Table Colgroup.html",
+              "RelativeToolTip": "HTML\\Table Colgroup.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:28:24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Table Styling.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Table Styling.html",
+              "RelativeDocumentMoniker": "HTML\\Table Styling.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Table Styling.html",
+              "RelativeToolTip": "HTML\\Table Styling.html",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:27:00.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Table Colspan \u0026 Rowspan.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Table Colspan \u0026 Rowspan.html",
+              "RelativeDocumentMoniker": "HTML\\Table Colspan \u0026 Rowspan.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Table Colspan \u0026 Rowspan.html",
+              "RelativeToolTip": "HTML\\Table Colspan \u0026 Rowspan.html",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:25:04.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Table Padding \u0026 Spacing.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Table Padding \u0026 Spacing.html",
+              "RelativeDocumentMoniker": "HTML\\Table Padding \u0026 Spacing.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Table Padding \u0026 Spacing.html",
+              "RelativeToolTip": "HTML\\Table Padding \u0026 Spacing.html",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:24:11.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Table Headers.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Table Headers.html",
+              "RelativeDocumentMoniker": "HTML\\Table Headers.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Table Headers.html",
+              "RelativeToolTip": "HTML\\Table Headers.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:23:10.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Table Sizes.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Table Sizes.html",
+              "RelativeDocumentMoniker": "HTML\\Table Sizes.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Table Sizes.html",
+              "RelativeToolTip": "HTML\\Table Sizes.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:21:41.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Table Borders.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Table Borders.html",
+              "RelativeDocumentMoniker": "HTML\\Table Borders.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Table Borders.html",
+              "RelativeToolTip": "HTML\\Table Borders.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:20:57.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Tables.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Tables.html",
+              "RelativeDocumentMoniker": "HTML\\Tables.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Tables.html",
+              "RelativeToolTip": "HTML\\Tables.html",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:16:27.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Background Images.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Background Images.html",
+              "RelativeDocumentMoniker": "HTML\\Background Images.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Background Images.html",
+              "RelativeToolTip": "HTML\\Background Images.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:14:43.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Image Maps.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Image Maps.html",
+              "RelativeDocumentMoniker": "HTML\\Image Maps.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Image Maps.html",
+              "RelativeToolTip": "HTML\\Image Maps.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:13:53.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Images.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Images.html",
+              "RelativeDocumentMoniker": "HTML\\Images.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Images.html",
+              "RelativeToolTip": "HTML\\Images.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:13:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Links - Create Bookmarks.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Links - Create Bookmarks.html",
+              "RelativeDocumentMoniker": "HTML\\Links - Create Bookmarks.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Links - Create Bookmarks.html",
+              "RelativeToolTip": "HTML\\Links - Create Bookmarks.html",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T04:09:12.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Links - Different Colors.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Links - Different Colors.html",
+              "RelativeDocumentMoniker": "HTML\\Links - Different Colors.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Links - Different Colors.html",
+              "RelativeToolTip": "HTML\\Links - Different Colors.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:55:31.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Links.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Links.html",
+              "RelativeDocumentMoniker": "HTML\\Links.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Links.html",
+              "RelativeToolTip": "HTML\\Links.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:54:45.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Styles - CSS.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Styles - CSS.html",
+              "RelativeDocumentMoniker": "HTML\\Styles - CSS.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Styles - CSS.html",
+              "RelativeToolTip": "HTML\\Styles - CSS.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:53:53.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "HSL and HSLA Colors.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\HSL and HSLA Colors.html",
+              "RelativeDocumentMoniker": "HTML\\HSL and HSLA Colors.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\HSL and HSLA Colors.html",
+              "RelativeToolTip": "HTML\\HSL and HSLA Colors.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:52:31.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "HEX Colors.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\HEX Colors.html",
+              "RelativeDocumentMoniker": "HTML\\HEX Colors.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\HEX Colors.html",
+              "RelativeToolTip": "HTML\\HEX Colors.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:51:13.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RGB and RGBA Colors.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\RGB and RGBA Colors.html",
+              "RelativeDocumentMoniker": "HTML\\RGB and RGBA Colors.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\RGB and RGBA Colors.html",
+              "RelativeToolTip": "HTML\\RGB and RGBA Colors.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:50:38.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Colors.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Colors.html",
+              "RelativeDocumentMoniker": "HTML\\Colors.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Colors.html",
+              "RelativeToolTip": "HTML\\Colors.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:45:17.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Comments.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Comments.html",
+              "RelativeDocumentMoniker": "HTML\\Comments.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Comments.html",
+              "RelativeToolTip": "HTML\\Comments.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:43:32.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Quotation and Citation Elements.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Quotation and Citation Elements.html",
+              "RelativeDocumentMoniker": "HTML\\Quotation and Citation Elements.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Quotation and Citation Elements.html",
+              "RelativeToolTip": "HTML\\Quotation and Citation Elements.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:41:47.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Text Formatting.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Text Formatting.html",
+              "RelativeDocumentMoniker": "HTML\\Text Formatting.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Text Formatting.html",
+              "RelativeToolTip": "HTML\\Text Formatting.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:40:27.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Styles.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Styles.html",
+              "RelativeDocumentMoniker": "HTML\\Styles.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Styles.html",
+              "RelativeToolTip": "HTML\\Styles.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:39:19.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Paragraphs.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Paragraphs.html",
+              "RelativeDocumentMoniker": "HTML\\Paragraphs.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Paragraphs.html",
+              "RelativeToolTip": "HTML\\Paragraphs.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:38:11.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Headings.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Headings.html",
+              "RelativeDocumentMoniker": "HTML\\Headings.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Headings.html",
+              "RelativeToolTip": "HTML\\Headings.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:36:01.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Attributes.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Attributes.html",
+              "RelativeDocumentMoniker": "HTML\\Attributes.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Attributes.html",
+              "RelativeToolTip": "HTML\\Attributes.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:35:05.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Basic Examples.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Basic Examples.html",
+              "RelativeDocumentMoniker": "HTML\\Basic Examples.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Basic Examples.html",
+              "RelativeToolTip": "HTML\\Basic Examples.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:28:08.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Editors.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Editors.html",
+              "RelativeDocumentMoniker": "HTML\\Editors.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Editors.html",
+              "RelativeToolTip": "HTML\\Editors.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:26:57.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Introduction.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Introduction.html",
+              "RelativeDocumentMoniker": "HTML\\Introduction.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Introduction.html",
+              "RelativeToolTip": "HTML\\Introduction.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:24:02.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Elements.html",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\HTML\\Elements.html",
+              "RelativeDocumentMoniker": "HTML\\Elements.html",
+              "ToolTip": "F:\\BA\\PTPMQL\\HTML\\Elements.html",
+              "RelativeToolTip": "HTML\\Elements.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-25T03:14:35.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

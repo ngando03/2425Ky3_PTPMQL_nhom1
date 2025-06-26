@@ -1,0 +1,19 @@
+﻿img {
+	float: right;
+}
+
+img {
+	float: left;
+}
+
+img {
+	float: none;
+}
+
+div1 {
+	float: left;
+}
+
+div2 {
+	clear: left;
+}

@@ -1,0 +1,44 @@
+﻿h1 {
+	background-color: green;
+}
+
+div {
+	background-color: lightblue;
+}
+
+p {
+	background-color: yellow;
+}
+
+p {
+	background-image: url("paper.gif");
+}
+
+body {
+	background-image: url("gradient_bg.png");
+}
+
+body {
+	background-image: url("img_tree.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
+}
+
+body {
+	background-image: url("img_tree.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: scroll;
+}
+
+body {
+	background-color: #ffffff;
+	background-image: url("img_tree.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+body {
+	background: #ffffff url("img_tree.png") no-repeat right top;
+}

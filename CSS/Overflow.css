@@ -1,0 +1,21 @@
+﻿div {
+	width: 200px;
+	height: 65px;
+	background-color: coral;
+	overflow: visible;
+}
+
+div {
+	width: 200px;
+	height: 65px;
+	background-color: coral;
+	overflow: visible;
+}
+
+div {
+	overflow: scroll;
+}
+
+div {
+	overflow: auto;
+}

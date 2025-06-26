@@ -1,0 +1,11 @@
+﻿div p {
+	background-color: yellow;
+}
+
+div > p {
+	background-color: yellow;
+}
+
+div + p {
+	background-color: yellow;
+}

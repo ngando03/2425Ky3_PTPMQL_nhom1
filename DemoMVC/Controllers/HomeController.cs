@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using DemoMVC.Models;
+using System.Reflection.Metadata;
 
 namespace DemoMVC.Controllers;
 
@@ -15,6 +16,13 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        return View();
+    }
+    [HttpPost]
+    public IActionResult Index(string FullName, string Address)
+    {
+        String str0utput = "Xin chao "  +  FullName  +  " den tu "  +  Address;
+        ViewBag.Message = str0utput;
         return View();
     }
 

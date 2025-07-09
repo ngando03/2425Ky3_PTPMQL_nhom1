@@ -11,6 +11,9 @@
     <thead>
         <tr>
             <th>
+                @Html.DisplayNameFor(model => model.First().PersonID)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.First().FullName)
             </th>
             <th>
@@ -19,10 +22,13 @@
             <th></th>
         </tr>
     </thead>
-    <tbody>Cho 
+    <tbody>
         @foreach (var item in Model)
         {
             <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PersonID)
+                </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.FullName)
                 </td>

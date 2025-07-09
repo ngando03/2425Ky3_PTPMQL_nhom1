@@ -40,18 +40,62 @@ namespace DemoMVC.Controllers
         }
         public IActionResult Create()
         {
-            return View();
+            var lastPerson = _context.Persons
+                .OrderByDescending(p => p.PersonID)
+                .FirstOrDefault();
+
+            
+
+            string newID = "PS001";
+
+            if (lastPerson != null && !string.IsNullOrEmpty(lastPerson.PersonID))
+            {
+                string lastId = lastPerson.PersonID.Trim();
+
+                // Kiểm tra đúng định dạng PSxxx
+                if (lastId.Length >= 3 && int.TryParse(lastId.Substring(2), out int lastNumber))
+                {
+                    newID = $"PS{(lastNumber + 1).ToString("D3")}";
+                }
+            }
+
+
+            var person = new Person
+            {
+                PersonID = newID,
+                FullName = "",
+                Address = ""
+            };
+
+            return View(person);
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("StudentID,FullName,Address")] Person person)
         {
-            if (ModelState.IsValid)
+            var lastPerson = _context.Persons
+               .OrderByDescending(p => p.PersonID)
+               .FirstOrDefault();
+
+
+
+            string newID = "PS001";
+
+            if (lastPerson != null && !string.IsNullOrEmpty(lastPerson.PersonID))
             {
-                _context.Add(person);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                string lastId = lastPerson.PersonID.Trim();
+
+                // Kiểm tra đúng định dạng PSxxx
+                if (lastId.Length >= 3 && int.TryParse(lastId.Substring(2), out int lastNumber))
+                {
+                    newID = $"PS{(lastNumber + 1).ToString("D3")}";
+                }
             }
+            person.PersonID = newID;
+
+            _context.Add(person);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
             return View(person);
         }
         public async Task<IActionResult> Edit(string id)

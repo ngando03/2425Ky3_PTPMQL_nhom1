@@ -3,56 +3,28 @@
   "WorkspaceRootPath": "F:\\BA\\PTPMQL\\DemoMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\models\\daily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:models\\daily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\models\\hethongphanphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:models\\hethongphanphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\views\\person\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:views\\person\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\ptpmql\\demomvc\\views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:views\\person\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,171 +54,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T09:16:30.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DaiLy.cs",
-              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Models\\DaiLy.cs",
-              "RelativeDocumentMoniker": "Models\\DaiLy.cs",
-              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Models\\DaiLy.cs",
-              "RelativeToolTip": "Models\\DaiLy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:59:06.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
-              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "Controllers\\PersonController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:40:40.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\Person\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Person\\Index.cshtml",
-              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\Person\\Index.cshtml",
-              "RelativeToolTip": "Views\\Person\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T08:46:39.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:41:18.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HeThongPhanPhoi.cs",
-              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Models\\HeThongPhanPhoi.cs",
-              "RelativeDocumentMoniker": "Models\\HeThongPhanPhoi.cs",
-              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Models\\HeThongPhanPhoi.cs",
-              "RelativeToolTip": "Models\\HeThongPhanPhoi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:57:05.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:55:20.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
               "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Models\\Person.cs",
               "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Models\\Person.cs",
               "RelativeToolTip": "Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:51:23.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Models\\Movie.cs",
-              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Models\\Movie.cs",
-              "RelativeToolTip": "Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T08:48:45.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
-              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T08:46:55.838Z",
+              "WhenOpened": "2025-07-09T01:39:26.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HelloWorldController.cs",
-              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Controllers\\HelloWorldController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
-              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Controllers\\HelloWorldController.cs",
-              "RelativeToolTip": "Controllers\\HelloWorldController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\Person\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\Delete.cshtml",
+              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\Person\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Person\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T10:27:24.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:28:32.285Z",
+              "WhenOpened": "2025-07-08T09:12:25.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\Index.cshtml",
+              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "Views\\Person\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-02T09:01:40.068Z",
+              "WhenOpened": "2025-07-08T10:51:40.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\HelloWorld\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
-              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\HelloWorld\\Index.cshtml",
-              "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbcontext.cs",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Data\\ApplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbcontext.cs",
+              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Data\\ApplicationDbcontext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:42:04.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\Person\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\Edit.cshtml",
+              "ToolTip": "F:\\BA\\PTPMQL\\DemoMVC\\Views\\Person\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Person\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-01T10:37:41.084Z",
+              "WhenOpened": "2025-07-09T02:33:43.906Z",
               "EditorCaption": ""
             }
           ]

@@ -3,7 +3,9 @@
     "",
     "\\Controllers",
     "\\Models",
-    "\\Views"
+    "\\Views",
+    "\\Views\\Person"
   ],
+  "SelectedNode": "\\Views\\Person\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

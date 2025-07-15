@@ -17,6 +17,35 @@ namespace DemoMVC.Controllers
         public PersonController(ApplicationDbcontext context)
         {
             _context = context;
+
+        }
+        public async Task<IActionResult>Upload()
+        {
+            return View();
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult>Upload(IFormFile file)
+        {
+            if (file != null)
+            {
+                string fileExtension = Path.GetExtension(file.FileName);
+                if (fileExtension != ".xls" && fileExtension != ".xlsx")
+                {
+                    ModelState.AddModelError("", "Please choose excel file to upload!");
+                }
+                else
+                {
+                    var fileName = DateTime.Now.ToShortTimeString() = fileExtension;
+                    var filePath = Path.Combine(Directory.GetCurrentDirectory() + "/Upload", fileName);
+                    var fileLacation = new FileInfo(filePath).ToString();
+                    using (var stream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await file.CopyToAsync(stream);
+                    }
+                }
+                return View();
+            }
         }
         public async Task<IActionResult> Index()
         {

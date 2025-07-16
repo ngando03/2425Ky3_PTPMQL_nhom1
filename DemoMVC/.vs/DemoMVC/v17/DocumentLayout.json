@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\2425ky3_ptpmql_nhom1\\demomvc\\demomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:demomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\2425ky3_ptpmql_nhom1\\demomvc\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\2425ky3_ptpmql_nhom1\\demomvc\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\2425ky3_ptpmql_nhom1\\demomvc\\models\\process\\excelprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:models\\process\\excelprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\2425ky3_ptpmql_nhom1\\demomvc\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\2425ky3_ptpmql_nhom1\\demomvc\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\2425ky3_ptpmql_nhom1\\demomvc\\models\\daily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:models\\daily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\2425ky3_ptpmql_nhom1\\demomvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|f:\\ba\\2425ky3_ptpmql_nhom1\\demomvc\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3309A1F0-1357-46DA-0FDE-F9FCD03B98C2}|DemoMVC.csproj|solutionrelative:data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,31 +47,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DemoMVC",
-              "DocumentMoniker": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\DemoMVC.csproj",
-              "RelativeDocumentMoniker": "DemoMVC.csproj",
-              "ToolTip": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\DemoMVC.csproj",
-              "RelativeToolTip": "DemoMVC.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-15T10:26:44.543Z",
+              "Title": "Person.cs",
+              "DocumentMoniker": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:33:33.267Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\Index.cshtml",
+              "ToolTip": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "Views\\Person\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T09:10:53.237Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Views\\Person\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Person\\Create.cshtml",
+              "ToolTip": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Views\\Person\\Create.cshtml",
+              "RelativeToolTip": "Views\\Person\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T03:11:37.504Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAAAEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:33:48.761Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExcelProcess.cs",
+              "DocumentMoniker": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Models\\Process\\ExcelProcess.cs",
+              "RelativeDocumentMoniker": "Models\\Process\\ExcelProcess.cs",
+              "ToolTip": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Models\\Process\\ExcelProcess.cs",
+              "RelativeToolTip": "Models\\Process\\ExcelProcess.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwD4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T03:19:24.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:50:21.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbcontext.cs",
+              "DocumentMoniker": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Data\\ApplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbcontext.cs",
+              "ToolTip": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Data\\ApplicationDbcontext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:49:45.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DaiLy.cs",
+              "DocumentMoniker": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Models\\DaiLy.cs",
+              "RelativeDocumentMoniker": "Models\\DaiLy.cs",
+              "ToolTip": "F:\\BA\\2425Ky3_PTPMQL_nhom1\\DemoMVC\\Models\\DaiLy.cs",
+              "RelativeToolTip": "Models\\DaiLy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:59:45.119Z"
             }
           ]
         }

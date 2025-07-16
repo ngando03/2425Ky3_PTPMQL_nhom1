@@ -1111,3 +1111,4 @@ F:\BA\2425Ky3_PTPMQL_nhom1\DemoMVC\bin\Debug\net9.0\System.Security.Cryptography
 F:\BA\2425Ky3_PTPMQL_nhom1\DemoMVC\bin\Debug\net9.0\System.Text.Encoding.CodePages.dll
 F:\BA\2425Ky3_PTPMQL_nhom1\DemoMVC\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
 F:\BA\2425Ky3_PTPMQL_nhom1\DemoMVC\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Text.Encoding.CodePages.dll
+F:\BA\2425Ky3_PTPMQL_nhom1\DemoMVC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

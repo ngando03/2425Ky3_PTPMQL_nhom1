@@ -1,9 +1,8 @@
-﻿using DemoMVC.Models;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
+using DemoMVC.Data;
 
 namespace DemoMVC.Data
-
 {
     public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<ApplicationDbcontext>
     {

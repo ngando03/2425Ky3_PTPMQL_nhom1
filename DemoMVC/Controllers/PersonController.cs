@@ -1,31 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DemoMVC.Data;
 using DemoMVC.Models;
+using System.Data;
+using OfficeOpenXml;
+using OfficeOpenXml.Table;
+using System.IO;
 
 namespace DemoMVC.Controllers
 {
     public class PersonController : Controller
     {
         private readonly ApplicationDbcontext _context;
+        private ExcelProcess _excelProcess = new ExcelProcess();
 
         public PersonController(ApplicationDbcontext context)
         {
             _context = context;
 
         }
-        public async Task<IActionResult>Upload()
-        {
-            return View();
-        }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult>Upload(IFormFile file)
+        public async Task<IActionResult> Upload(IFormFile file)
         {
             if (file != null)
             {
@@ -36,15 +32,57 @@ namespace DemoMVC.Controllers
                 }
                 else
                 {
-                    var fileName = DateTime.Now.ToShortTimeString() = fileExtension;
-                    var filePath = Path.Combine(Directory.GetCurrentDirectory() + "/Upload", fileName);
-                    var fileLacation = new FileInfo(filePath).ToString();
+                    var fileName = DateTime.Now.ToString("yyyyMMdd_HHmmss") + fileExtension;
+                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "Uploads", fileName);
+                    var fileLocation = new FileInfo(filePath).ToString();
+
                     using (var stream = new FileStream(filePath, FileMode.Create))
                     {
                         await file.CopyToAsync(stream);
+                    
+                    var dt = _excelProcess.ExcelToDataTable(fileLocation) as DataTable;
+
+                        for (int i = 0; i < dt.Rows.Count; i++)
+                        {
+                            var ps = new Person()
+                            {
+                                PersonID = dt.Rows[i][0]?.ToString() ?? "",
+                                FullName = dt.Rows[i][1].ToString(),
+                                Address = dt.Rows[i][2].ToString()
+                            };
+
+                            _context.Add(ps);
+                        }
+                        await _context.SaveChangesAsync();
+                        return RedirectToAction(nameof(Index));
                     }
                 }
-                return View();
+            }
+
+            return View(); 
+        }
+        public IActionResult Download()
+        {
+           
+            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+
+            var fileName = "YourFileName" + ".xlsx";
+
+            using (ExcelPackage excelPackage = new ExcelPackage())
+            {
+                ExcelWorksheet worksheet = excelPackage.Workbook.Worksheets.Add("Sheet 1");
+
+                worksheet.Cells["A1"].Value = "PersonID";
+                worksheet.Cells["B1"].Value = "FullName";
+                worksheet.Cells["C1"].Value = "Address";
+
+                var personList = _context.Persons.ToList();
+
+                worksheet.Cells["A2"].LoadFromCollection(personList, false);
+
+                var stream = new MemoryStream(excelPackage.GetAsByteArray());
+
+                return File(stream, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileName);
             }
         }
         public async Task<IActionResult> Index()

@@ -9,6 +9,7 @@ namespace DemoMVC.Data
         { }
         public DbSet<Person> Persons { get; set; }
         public DbSet<DaiLy> DaiLys { get; set; }
+        public DbSet<HeThongPhanPhoi> HeThongPhanPhois { get; set; }
 
     }
 }
